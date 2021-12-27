@@ -1,8 +1,6 @@
 # DavesFamily
 Daves Family
 ## Ethers integrated
-All need ethers integration are in this file `\packages\mars-theme\src\web3\interact.js`. 
-1. Here, connect DavesFamily Smart Contract via Metamask.
 2. Check whether its `whitelisted` using `ethers.contract`
 3. Set cookies according to `whitelisted`
 4. Minting with `value` and `args`.
